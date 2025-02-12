@@ -50,4 +50,4 @@ jobs:
             git clone https://github.com/Domfa/fastapi-book-project
             cd fastapi-book-project/
             git pull
-            docker-compose up -d --build
+            sudo docker-compose up -d --build
